@@ -1,5 +1,5 @@
 <h3 align=center><img width="150" height="150" alt="libfte" src="https://github.com/user-attachments/assets/1a3ae480-b15f-401d-885b-4ed4bd2e8279" /></h3>
-*This project has been created as part of the 42 curriculum by salkhali.*
+_This project has been created as part of the 42 curriculum by salkhali._
 
 ## Description
 
