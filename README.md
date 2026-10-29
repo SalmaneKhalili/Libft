@@ -102,7 +102,9 @@ cc main.c libft.a -o main
 ```
 ## Resources
 [For the makefile i relied on Makefiletutorial.com](https://makefiletutorial.com/#top)
+
 [Cant go wrong with Beejs guide to programming in c](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf)
+
 [Supplementing theory with Computer systems: a programmers perspective](https://github.com/Sorosliu1029/Books/blob/master/Computer%20Systems%20A%20Programmers%20Perspective%20(3rd).pdf)
 
 AI-Disclosure: AI has been used in this project for two main tasks, adding prototypes to my headerfiler, and reviewing my 42 norm application.
